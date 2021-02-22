@@ -1,5 +1,7 @@
 # random-number
-![screenshot] randomnumber.png
+![Screenshot](randomnumber.png)
+
+![Screenshot2](screenshot)
 
 i made this script
 
