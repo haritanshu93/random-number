@@ -1,6 +1,6 @@
 #!/bin/bash
 echo loading randomnum.sh...
-wait 1
+sleep 1
 
 
 
@@ -28,7 +28,7 @@ wait 1
 
 
 echo loading code...
-wait 4
+sleep 4
 
 
 
