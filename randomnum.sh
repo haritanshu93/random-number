@@ -1,7 +1,8 @@
 #!/bin/bash
 echo loading randomnum.sh...
 sleep 1
-
+clear
+bash
 
 
 
@@ -29,6 +30,8 @@ sleep 1
 
 echo loading code...
 sleep 4
+clear
+bash
 
 
 
