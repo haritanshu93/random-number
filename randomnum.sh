@@ -1,5 +1,8 @@
 #!/bin/bash
-
+echo loading randomnum.sh...
+wait 1
+echo loading code...
+wait 4
 random=$((1 + $RANDOM % 10))
 
 echo 'enter a random number'
