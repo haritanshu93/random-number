@@ -1,5 +1,4 @@
 # random-number
-![Screenshot](randomnumber.png)
 
 i made this script
 
